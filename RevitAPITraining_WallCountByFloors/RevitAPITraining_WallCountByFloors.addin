@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_WallCountByFloors.dll"</Assembly>
+		<AddInId>A1D7A2DA-E11B-46AC-8668-8463FFFAD8DB</AddInId>
+		<FullClassName>RevitAPITraining_WallCountByFloors.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>Количество стен по этажам</Text>
+	</AddIn>
+</RevitAddIns>
